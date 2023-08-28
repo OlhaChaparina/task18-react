@@ -1,0 +1,28 @@
+.timer{
+text-align: center;
+font-size: 60px;
+margin-top: 150px;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 3px 3px 9px grey;
+}
+.container button{
+    width: 160px;
+    height: 40px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
